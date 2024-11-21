@@ -4,7 +4,7 @@ This is the official code implementation of the MCANet paper: Replacing Complex 
 
 ## Pre-trained model
 
-After receiving the article, we will provide our pre trained model and various pre-trained models for comparative experiments on Baidu Cloud.
+After the article is accepted, we will provide our pre trained model and various pre trained models for comparative experiments on Baidu Cloud.
 
 ## code
 
